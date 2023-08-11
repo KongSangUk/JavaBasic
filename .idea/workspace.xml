@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84ef666c-7008-41a1-82ea-80303d48b9fb" name="변경" comment="Java Workspace">
-      <change afterPath="$PROJECT_DIR$/src/Ch_03/_01_String1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch_03/_02_String2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch_03/_03_EscapeSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch_03/_03_StringCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch_03/_Quiz_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch_04/_01_If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch_04/_02_Else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch_04/_03_ElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch_04/_04_SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch_04/_05_For.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,13 +49,13 @@
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션._Quiz_03">
-    <configuration name="_01_String1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch_03._01_String1" />
+  <component name="RunManager" selected="애플리케이션._05_For">
+    <configuration name="_01_If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch_04._01_If" />
       <module name="JavaWorkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch_03.*" />
+          <option name="PATTERN" value="Ch_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_02_String2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch_03._02_String2" />
+    <configuration name="_02_Else" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch_04._02_Else" />
       <module name="JavaWorkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch_03.*" />
+          <option name="PATTERN" value="Ch_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_03_EscapeSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch_03._03_EscapeSequence" />
+    <configuration name="_03_ElseIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch_04._03_ElseIf" />
       <module name="JavaWorkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch_03.*" />
+          <option name="PATTERN" value="Ch_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_03_StringCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch_03._03_StringCompare" />
+    <configuration name="_04_SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch_04._04_SwitchCase" />
       <module name="JavaWorkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch_03.*" />
+          <option name="PATTERN" value="Ch_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_Quiz_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch_03._Quiz_03" />
+    <configuration name="_05_For" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch_04._05_For" />
       <module name="JavaWorkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch_03.*" />
+          <option name="PATTERN" value="Ch_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션._Quiz_03" />
-        <item itemvalue="애플리케이션._02_String2" />
-        <item itemvalue="애플리케이션._03_EscapeSequence" />
-        <item itemvalue="애플리케이션._03_StringCompare" />
-        <item itemvalue="애플리케이션._01_String1" />
+        <item itemvalue="애플리케이션._05_For" />
+        <item itemvalue="애플리케이션._04_SwitchCase" />
+        <item itemvalue="애플리케이션._03_ElseIf" />
+        <item itemvalue="애플리케이션._02_Else" />
+        <item itemvalue="애플리케이션._01_If" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +133,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691458368424</updated>
-      <workItem from="1691458369626" duration="20729000" />
+      <workItem from="1691458369626" duration="27369000" />
     </task>
     <task id="LOCAL-00001" summary="Java Workspace">
       <created>1691575037909</created>
@@ -142,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691575037909</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Java Workspace">
+      <created>1691587137589</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691587137589</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
